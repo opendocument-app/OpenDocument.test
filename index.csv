@@ -1,3 +1,3 @@
-path,original name,origin,encrypted,password
-docx/encrypted.docx,,,yes,password
-doc/encrypted.doc,,,yes,password
+path,type,encrypted,password,origin,original name
+docx/encrypted.docx,docx,yes,password,stefl.andreas@gmail.com,
+doc/encrypted.doc,doc,yes,password,stefl.andreas@gmail.com,
