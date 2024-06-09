@@ -47,3 +47,4 @@ xlsx/file_example_XLSX_5000.xlsx,xlsx,no,,https://file-examples-com.github.io/up
 odt/file-sample_100kB.odt,odt,no,,https://file-examples.com/index.php/sample-documents-download/sample-odt-download/,file-sample_100kB.odt
 odt/file-sample_500kB.odt,odt,no,,https://file-examples.com/index.php/sample-documents-download/sample-odt-download/,file-sample_500kB.odt
 odt/file-sample_1MB.odt,odt,no,,https://file-examples.com/index.php/sample-documents-download/sample-odt-download/,file-sample_1MB.odt
+xlsx/encrypted.xlsx,xlsx,yes,password,stefl.andreas@gmail.com,
