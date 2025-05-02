@@ -48,3 +48,4 @@ odt/file-sample_500kB.odt,odt,no,,https://file-examples.com/index.php/sample-doc
 odt/file-sample_1MB.odt,odt,no,,https://file-examples.com/index.php/sample-documents-download/sample-odt-download/,file-sample_1MB.odt
 xlsx/encrypted.xlsx,xlsx,yes,password,stefl.andreas@gmail.com,
 docx/tabletest.docx,docx,no,,https://github.com/opendocument-app/OpenDocument.droid/issues/354,tabletest.docx
+docx/physics.docx,docx,no,,https://github.com/opendocument-app/OpenDocument.droid/issues/385,Physics.docx
