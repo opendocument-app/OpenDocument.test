@@ -49,3 +49,5 @@ odt/file-sample_1MB.odt,odt,no,,https://file-examples.com/index.php/sample-docum
 xlsx/encrypted.xlsx,xlsx,yes,password,stefl.andreas@gmail.com,
 docx/tabletest.docx,docx,no,,https://github.com/opendocument-app/OpenDocument.droid/issues/354,tabletest.docx
 docx/physics.docx,docx,no,,https://github.com/opendocument-app/OpenDocument.droid/issues/385,Physics.docx
+ods/Supervised_Business_Register_241210.ods,ods,no,,unknown,
+ods/Supervised_Business_Register_300425__1_.ods,ods,no,,https://www.gov.uk/guidance/money-laundering-regulations-supervised-business-register,
