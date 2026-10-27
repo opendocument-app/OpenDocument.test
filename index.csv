@@ -72,3 +72,6 @@ xls/encrypted-rc4.xls,xls,yes,password,saved by LibreOffice 25.8 with the passwo
 xls/default-password.xls,xls,no,,saved by LibreOffice 25.8 with the default password VelvetSweatshop,
 doc/encrypted-rc4-cryptoapi.doc,doc,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/rc4cryptoapi_password.doc,rc4cryptoapi_password.doc
 doc/encrypted-rc4.doc,doc,yes,password,saved by LibreOffice 25.8 with the password,
+ppt/encrypted-rc4-cryptoapi.ppt,ppt,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/rc4cryptoapi_password.ppt,rc4cryptoapi_password.ppt
+ppt/encrypted-pictures.ppt,ppt,yes,password,ppt/style-various-1.ppt encrypted by Apache POI 5.5.1,
+ppt/encrypted-blip-types.ppt,ppt,yes,password,"a slide with JPEG, PNG, DIB, EMF, WMF and PICT pictures, each with one and two UIDs, encrypted by Apache POI 5.5.1",
