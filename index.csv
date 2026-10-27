@@ -63,3 +63,6 @@ webp/lorine-niedecker.webp,webp,no,,https://commons.wikimedia.org/wiki/File:Lori
 svg/rotating-snakes.svg,svg,no,,https://commons.wikimedia.org/wiki/File:Rotating_snakes_illusion.svg,Rotating snakes illusion.svg
 svg/civitas-schinesghe-emblem.svg,svg,no,,https://commons.wikimedia.org/wiki/File:Emblem_of_Civitas_Schinesghe.svg,Emblem of Civitas Schinesghe.svg
 pdf/opendocument-app-website.pdf,pdf,no,,https://opendocument.app/,OpenDocument Reader.pdf
+docx/encrypted-agile.docx,docx,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/example_password.docx,example_password.docx
+xlsx/encrypted-agile.xlsx,xlsx,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/example_password.xlsx,example_password.xlsx
+pptx/encrypted-agile.pptx,pptx,yes,password,pptx/style-various-1.pptx encrypted by msoffcrypto-tool 6.0.0,
