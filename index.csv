@@ -66,3 +66,7 @@ pdf/opendocument-app-website.pdf,pdf,no,,https://opendocument.app/,OpenDocument 
 docx/encrypted-agile.docx,docx,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/example_password.docx,example_password.docx
 xlsx/encrypted-agile.xlsx,xlsx,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/example_password.xlsx,example_password.xlsx
 pptx/encrypted-agile.pptx,pptx,yes,password,pptx/style-various-1.pptx encrypted by msoffcrypto-tool 6.0.0,
+xls/encrypted-rc4-cryptoapi.xls,xls,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/rc4cryptoapi_password.xls,rc4cryptoapi_password.xls
+xls/encrypted-xor.xls,xls,yes,123456789012345,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/xor_password_123456789012345.xls,xor_password_123456789012345.xls
+xls/encrypted-rc4.xls,xls,yes,password,saved by LibreOffice 25.8 with the password,
+xls/default-password.xls,xls,no,,saved by LibreOffice 25.8 with the default password VelvetSweatshop,
