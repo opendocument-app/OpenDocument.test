@@ -70,3 +70,5 @@ xls/encrypted-rc4-cryptoapi.xls,xls,yes,Password1234_,https://github.com/nolze/m
 xls/encrypted-xor.xls,xls,yes,123456789012345,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/xor_password_123456789012345.xls,xor_password_123456789012345.xls
 xls/encrypted-rc4.xls,xls,yes,password,saved by LibreOffice 25.8 with the password,
 xls/default-password.xls,xls,no,,saved by LibreOffice 25.8 with the default password VelvetSweatshop,
+doc/encrypted-rc4-cryptoapi.doc,doc,yes,Password1234_,https://github.com/nolze/msoffcrypto-tool/blob/master/tests/inputs/rc4cryptoapi_password.doc,rc4cryptoapi_password.doc
+doc/encrypted-rc4.doc,doc,yes,password,saved by LibreOffice 25.8 with the password,
